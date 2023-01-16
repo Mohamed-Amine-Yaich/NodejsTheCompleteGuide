@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "npx ts-node app",
+    "nodemon": "npx nodemon ts-node app"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
